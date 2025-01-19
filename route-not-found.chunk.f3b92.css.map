@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://./routes/not-found/NotFound.module.css"],"names":[],"mappings":"AAAA,wBACE,WACF","file":"route-not-found.chunk.f3b92.css","sourcesContent":[".not-found-root {\n  height: 80vh;\n}\n"]}
